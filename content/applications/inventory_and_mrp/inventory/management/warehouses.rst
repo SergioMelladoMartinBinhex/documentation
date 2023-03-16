@@ -9,3 +9,4 @@ Warehouses
    :glob:
 
    warehouses/difference_warehouse_location
+   warehouses/use_locations
